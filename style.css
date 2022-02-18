@@ -1,0 +1,37 @@
+.tavolsag
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: yellow;
+}
+
+.csillag
+{
+    text-decoration: none;
+    color: yellow;
+}
+.csillag:hover
+{
+    color: rgb(158, 34, 34);
+}
+
+html
+{
+    width: 800px;
+    margin: auto;
+    background-color: rgb(167,153,153);
+}
+
+h1
+{
+    font-variant: small-caps;
+}
+
+.container,img
+{
+    margin: 20px;
+}
+
+.csillag:visited
+{
+    color: white;
+}
